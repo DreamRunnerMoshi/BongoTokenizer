@@ -1,4 +1,4 @@
-# BongoTokenizer
+# BongoTokenizer - Byte Pair Encoding based Bangla Language Tokenizer design to incorporate colloqial accent
   # Data preparation #
 
 
